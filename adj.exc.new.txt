@@ -1,9 +1,11 @@
+affective affective
 brighter bright
 brightest bright
 broader broad
 broadest broad
 cheaper cheap
 cheapest cheap
+chiral chiral
 cleaner clean
 clearer clear
 clearest clear
@@ -68,6 +70,7 @@ severer severe
 severest severe
 shorter short
 shortest short
+sicker sick
 sickest sick
 simpler simple
 simplest simple
@@ -75,23 +78,31 @@ slighter slight
 slightest slight
 slower slow
 slowest slow
+smaller snall
 smallest small
 smoother smooth
 softer soft
 sooner soon
+soonest soon
+steeper steep
 steepest steep
 stiffer stiff
 stiffest stiff
 stricter strict
 strictest strict
+taller tall
 tallest tall
 thicker thick
 thickest thick
 tighter tight
+tightest tight
+tougher tough
 toughest tough
 warmer warm
+warmest warm
 weaker weak
 weakest weak
-whittier whitty
+whittier #Err witty
+whittiest #Err witty
 wider wide
 widest wide
